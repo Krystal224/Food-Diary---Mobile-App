@@ -14,7 +14,7 @@
   "dependencies": {
     "amcharts3": "^3.21.12",
     "browserify": "^16.1.0",
-    "express": "3.x",
+    "express": "4.x",
     "express3-handlebars": "*",
     "fs": "0.0.1-security",
     "jquery.rateit": "^1.1.1",
